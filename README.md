@@ -1,8 +1,7 @@
-Установка:
-  1. Убедитесь, что используете питон версии 3.6+, чтобы успешно запустился код. Узнать можно посредством команды **python -V**.
-  2. Скачайте исходный код. В терминале пропишите **git clone https://github.com/mumtozvalijonov/telegram-avatar-time.git** или просто скачайте [zip](https://github.com/mumtozvalijonov/telegram-avatar-time/archive/master.zip).
+Make sure you are using Python 3.6+ for the code to run successfully. You can find out using the python -V command.
+Download the source code. In the terminal, write git clone https://github.com/fukipa/telegram-avatar-time.git or just download the zip.
+For a successful launch, you must:
 
-Для успешного запуска необходимо:
-  1. В файле config/config.py изменить реквизиты api на свои.
-  2. Находясь в той же папке, что и requirements.txt ввести в терминале pip install -r requirements.txt.
-  3. Находясь в той же папке, что и main.py ввести в терминале python main.py.
+In the config / config.py file, change the api props to your own.
+While in the same folder as requirements.txt, enter pip install -r requirements.txt in the terminal.
+While in the same folder as main.py, enter main.py in python terminal.
